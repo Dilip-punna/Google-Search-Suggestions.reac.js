@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/google-logo.png ');
+  height: 100vh;
+  background-size: cover;
+  padding: 20px;
+}
